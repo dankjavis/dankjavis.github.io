@@ -1,0 +1,3 @@
+browserSync({
+    files: "index.html"
+});
